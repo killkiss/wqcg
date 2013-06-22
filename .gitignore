@@ -1,0 +1,4 @@
+/.externalToolBuilders
+*.class
+*.war
+*.ear
