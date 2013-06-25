@@ -10,5 +10,4 @@
 	<t:dgDelOpt title="删除" url="userController.do?del&id={id}&userName={userName}" />
 	<t:dgToolBar title="用户录入" icon="icon-add" url="userController.do?addorupdate" funname="add"></t:dgToolBar>
    <t:dgToolBar title="用户编辑" icon="icon-edit" url="userController.do?addorupdate" funname="update"></t:dgToolBar>
-   <t:dgToolBar title="test" icon="icon-edit" url="userController.do?addorupdate" funname="test"></t:dgToolBar>
 </t:datagrid>

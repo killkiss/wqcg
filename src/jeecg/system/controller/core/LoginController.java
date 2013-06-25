@@ -19,7 +19,6 @@ import jeecg.system.pojo.base.TSVersion;
 import jeecg.system.service.SystemService;
 import jeecg.system.service.UserService;
 
-import org.hibernate.annotations.Cache;
 import org.jeecgframework.core.common.model.common.SessionInfo;
 import org.jeecgframework.core.common.model.json.AjaxJson;
 import org.jeecgframework.core.constant.Globals;

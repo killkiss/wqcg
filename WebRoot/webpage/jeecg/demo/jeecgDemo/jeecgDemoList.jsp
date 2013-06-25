@@ -28,7 +28,6 @@
    <t:dgToolBar operationCode="detail" title="查看" icon="icon-search" url="jeecgDemoController.do?addorupdate" funname="detail"></t:dgToolBar>
    <%--   update-end--Author:sun  Date:20130503 for 增加页面详细查看功能--%>
    <%--   update-end--Author:anchao  Date:20130415 for按钮权限--%>
-   <t:dgToolBar operationCode="test" title="test" icon="icon-search" url="jeecgDemoController.do?addorupdate" funname="update"></t:dgToolBar>
   </t:datagrid>
   </div>
   </div>
