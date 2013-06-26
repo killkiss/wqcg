@@ -21,7 +21,7 @@ import org.jeecgframework.core.common.entity.IdEntity;
 @Entity
 @Table(name = "t_s_typegroup")
 public class TSTypegroup extends IdEntity implements java.io.Serializable {
-	//所有的数据字典
+	//鎵�鏈夌殑鏁版嵁瀛楀吀
 	public static Map<String, TSTypegroup> allTypeGroups = new HashMap<String,TSTypegroup>();
 	public static Map<String, List<TSType>> allTypes = new HashMap<String,List<TSType>>();
 	
